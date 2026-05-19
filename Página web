@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+section{
+background:beige;
+margin:20px;
+padding:20px;
+}
+
+body {
+background-color: #d9b29a; font-family:
+Arial,sans-serif; margin: 10; padding:
+10;
+}
+
+header {
+background-size: cover; background-
+position: center;
+width: 100%; color: white;
+text-align: center; padding: 40px 20px;
+}
+
+nav {
+background:white;
+padding:15px;
+text-align:center;
+}
+
+nav a {
+color: #d9b29a;
+margin: 15px;
+text-decoration: none; font-weight:
+bold;
+}
+
+nav a:hover {
+color: white;
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+<a href="#Qué es?">Qué es?</a>
+<a href="#Ventajas y Desventajas">Ventajas y Desventajas</a>
+<a href="#Tabla de temperatura">Tabla de temperatura</a>
+<a href="#Precios">Precios</a>
+<a href="#Diseño">Diseño</a>
+<a href="#Conclusión">Conclusión</a>
+<a href="#Acerca de">Acerca de</a>
+</nav>
+
+<header>
+<h1> Unicel como material aislante</h1>
+<p> PROYECTO 10B</p>
+</header>
+
+<center>
+<section id="Qué es?">
+<h2>Qué es?</h2>
+<p>
+El aislamiento térmico es un material que dificulta el paso del calor entre dos espacios. Su función es mantener la temperatura estan en el interior de una construcción.
+</section>
+<section>
+Tipos de Aislantes térmicos:
+<br>
+1. Unicel (poliestireno expandido)
+Es uno de los más usados en viviendas por ser económico y ligero. Se coloca en techos y paredes.
+<br>
+<br>
+2. Fibra de vidrio
+Material formado por fibras finas de vidrio. Tiene gran capacidad de aislamiento y se usa mucho en construcciones.
+<br>
+<br>
+3. Lana mineral
+Resiste altas temperaturas y también funciona como aislante acústico.
+<br>
+<br>
+4. Espuma de poliuretano
+Se aplica en forma de espuma y cubre espacios pequeños evitando fugas de calor.
+<br>
+<br>
+5. Corcho natural
+Material ecológico que ofrece buen aislamiento térmico y acústico.
+<br>
+<br>
+<br>
+</section>
+
+<section>
+¿Qué es el Unicel?
+Es un material plástico derivado del petróleo. Técnicamente, está compuesto en un 95% por aire y solo un 5% por plástico (poliestireno).
+<br>
+<br>
+Para fabricarlo, se introducen pequeñas perlas de poliestireno en una máquina que les inyecta vapor de agua, lo que hace que se inflen como palomitas de maíz hasta que se pegan unas con otras y toman la forma del molde.
+</section>
+
+<section>
+¿Cómo se "extrae" o se recicla?
+A diferencia de los minerales, el unicel no se extrae de la naturaleza, sino que se fabrica. Sin embargo, cuando hablamos de "extraer" algo del unicel usado para reciclarlo, el proceso más común es la densificación:
+<br>
+1. Compactación mecánica: Se usan máquinas que aplastan el unicel para sacarle todo el aire. Lo que antes ocupaba una bolsa gigante, termina siendo un bloque pequeño y pesado.
+<br>
+<br>
+2. Extracción por calor: Se calienta el material hasta que se funde. Al derretirse, el aire escapa y queda una resina plástica líquida que luego se solidifica en "pellets" (bolitas de plástico duro).
+<br>
+<br>
+3. Disolución química: Existen sustancias (como el limoneno, que se saca de la cáscara de naranja) que pueden disolver el unicel, separando el plástico del aire de forma casi inmediata.
+<br>
+<br>
+El problema ambiental
+El unicel es muy útil porque es barato y aísla el calor, pero tiene dos grandes desventajas:
+<br>
+• No es biodegradable: Puede tardar entre 500 y 800 años en degradarse.
+• Se fragmenta: Se rompe fácilmente en bolitas pequeñas que terminan en el mar, donde los animales las confunden con alimento.
+</p>
+</section>
+
+<section id="Ventajas y Desventajas">
+<h2>Ventajas y Desventajas</h2>
+<p>Ventajas
+<br>
+<br>
+1. Es un buen aislante térmico, mantiene la temperatura.
+<br>
+<br>
+2. Ayuda a ahorrar energía eléctrica.
+3. Es ligero y fácil de transportar.
+<br>
+<br>
+4. Tiene bajo costo comparado con otros materiales.
+<br>
+<br>
+5. También reduce un poco el ruido.
+<br>
+<br>
+6. Es resistente a la humedad.
+</p>
+</section>
+
+<section>
+<h2>Desventajas del unicel</h2>
+<br>
+<br>
+1. Contamina el medio ambiente porque tarda mucho en degradarse.
+<br>
+<br>
+2. Puede ser inflamable si no tiene tratamiento especial.
+<br>
+<br>
+3. Se rompe o daña con facilidad.
+<br>
+<br>
+4. No soporta temperaturas muy altas.
+<br>
+<br>
+5. Su reciclaje es difícil en algunos lugares.
+</section>
+
+<section id="Tabla de temperatura">
+<h2>Tabla de temperatura</h2>
+<table class="tabla">
+<thead>
+<tr>
+<th>Hora</th>
+<th>Casa con Aislante</th>
+<th>Casa Convencional</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>7:00</td>
+<td>22</td>
+<td>22.50</td>
+</tr>
+<tr>
+<td>8:00</td>
+<td>22.40</td>
+<td>22.50</td>
+</tr>
+<tr>
+<td>9:00</td>
+<td>30.70</td>
+<td>30.30</td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>30.60</td>
+<td>30.31</td>
+</tr>
+<tr>
+<td>11:00</td>
+<td>34</td>
+<td>34.30</td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>32.10</td>
+<td>32.60</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>34.70</td>
+<td>35.20</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>34.60</td>
+<td>34.10</td>
+</tr>
+</tbody>
+</table>
+</section>
+
+<section id="Precios">
+<h2>Precios</h2>
+<p>La casa convencional cuesta 900,000 y el Aislante termico (unicel) contado por metros cuadrados cuesta 36,500. en total siendo 936,500 </p>
+</section>
+
+<section id="Diseño">
+<h2>Diseño</h2>
+<iframe width="560" height="315" src="https://AxelPeira.github.io/Casa.MP4" frameborder="0" allowfullscreen>
+<p>(presentación)</p>
+</iframe>
+</section>
+</center>
+
+<section id="Conclusión">
+<h2>Conclusión</h2>
+<p>En conclusión, los resultados muestran que la casa con aislante térmico mantiene temperaturas más estables en comparación con la casa convencional. Esto demuestra que el uso de materiales aislantes ayuda a conservar mejor la temperatura y puede reducir el consumo de energía. Además, el análisis de la tabla y la gráfica permitió comprender cómo las matemáticas ayudan a interpretar datos y resolver problemas relacionados con la vida cotidiana y la construcción sostenible.</p>
+</section>
+
+<section id="Acerca de">
+<h2>Acerda de...</h2>
+<img src="https://axelpeira.github.io/IMG_1789.jpeg" width="300">
+<p>Me gusta el karate y soy un chico tranquilo </p>
+<br>
+<br>
+<img src="https://axelpeira.github.io/IMG_1787.jpeg" width="300">
+<p>me gusta jugar volley </p>
+<br>
+<br>
+<img src="https://axelpeira.github.io/IMG_1786.jpeg" width="300">
+<p> Me gusta el basket (entreno en pumas) y escuchar musica como tito doble p y junior h </p>
+<br>
+<br>
+<img src="https://axelpeira.github.io/99DE3C75-BC60-4D9E-805D-79C063558C29.jpeg" width="300">
+<p> Me gusta escuchar musica y practicar tocho, soy una chica tranquila y amigable hacia los demas </p>
+<br>
+<img src="https://axelpeira.github.io/IMG_4027.jpeg" width="300">
+<p> me gusta escuchar música y jugar basketball </p>
+</section>
+
+</body>
+</html>
+
